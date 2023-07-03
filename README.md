@@ -1,3 +1,1 @@
-# viikkotehtava1
-# TIEA2120viikkotehtava1
-# Testi Testi
+# TIEA2120 - Viikkotehtävä 1
